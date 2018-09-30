@@ -1,0 +1,11 @@
+Unity developer test Job
+
+Imagine that you are becoming a new and only developer of the test project Tower Defence. Here is the current status of the project, your tasks in order of priority:
+
+Obligatory:
+1) to inspect the project: to redesign, optimize, correct the found defects, or to present them in the text and indicate possible solutions;
+2) make a preemptive shooting for CannonTower: add functionality to search for the target and hover over it so that the released projectiles began to fall on the target; shells must fly strictly from the barrel of the gun; the projectile in flight is prohibited to apply any force or adjustments;
+
+Optional:
+3) for CannonTower to make the capture and tracking of the target with anticipation; turn the turret gun should be smooth; make it possible to adjust the speed of the gun rotation;
+4) for CannonTower to make a preemptive firing mode on a parabolic trajectory (gravity must act on the projectile)
